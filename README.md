@@ -47,7 +47,7 @@ An immutable ledger (`/alerts`) logging every fleet dispatch event.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kritikayadav20/HydroAlert-v1.git
+   git clone https://github.com/lanjewarA/HydroAlert.git
    cd hydro-alert
    ```
 
